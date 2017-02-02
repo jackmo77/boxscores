@@ -1,4 +1,3 @@
-key: 1912/SCEN/19120430CLE0@DMN
 date: 1912-04-30
 number: 0
 league: South Central
@@ -45,7 +44,6 @@ U: Wright
 
 ---
 
-key: 1912/SCEN/19120430PAR0@DMN
 date: 1912-04-30
 number: 0
 league: South Central
@@ -100,7 +98,6 @@ U: Bryan
 
 ---
 
-key: 1912/SCEN/19120430MAR0@DMN
 date: 1912-04-30
 number: 0
 league: South Central
@@ -147,7 +144,6 @@ U: Robinson
 
 ---
 
-key: 1912/TXOK/19120430ARD0@DMN
 date: 1912-04-30
 number: 0
 league: Texas-Oklahoma
@@ -195,7 +191,6 @@ U: Mulkey
 
 ---
 
-key: 1912/TXOK/19120430BON0@DMN
 date: 1912-04-30
 number: 0
 league: Texas-Oklahoma
@@ -248,7 +243,6 @@ U: Folsom
 
 ---
 
-key: 1912/TXOK/19120430WIC0@DMN
 date: 1912-04-30
 number: 0
 league: Texas-Oklahoma
@@ -299,7 +293,6 @@ U: Murphy
 
 ---
 
-key: 1912/TXOK/19120430SHE0@DMN
 date: 1912-04-30
 number: 0
 league: South Central
@@ -359,7 +352,6 @@ U: Jogglin; West
 
 ---
 
-key: 1912/OKSL/19120430OKM0@DMN
 date: 1912-04-30
 number: 0
 league: Oklahoma State
@@ -381,7 +373,6 @@ line: Okmulgee: 2 2 1 0 0 0 0 0 0 - 5
 
 ---
 
-key: 1912/OKSL/19120430GUT0@DMN
 date: 1912-04-30
 number: 0
 league: Oklahoma State
@@ -406,7 +397,6 @@ line: Tulsa: 0 1 1 6 0 0 0 0 0 - 8
 
 ---
 
-key: 1912/OKSL/19120430AND0@DMN
 date: 1912-04-30
 number: 0
 league: Oklahoma State
@@ -428,7 +418,6 @@ line: Anadarko: 0 0 0 0 0 0 0 1 0 - 1
 
 ---
 
-key: 1912/OKSL/19120430HOL0@DMN
 date: 1912-04-30
 number: 0
 league: Oklahoma State

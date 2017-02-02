@@ -1,4 +1,3 @@
-key: 1912/SCEN/19120501PAR0@DMN
 date: 1912-05-01
 number: 0
 league: South Central
@@ -45,7 +44,6 @@ U: Schultz
 
 ---
 
-key: 1912/SCEN/19120501MAR0@DMN
 date: 1912-05-01
 number: 0
 league: South Central
@@ -94,7 +92,6 @@ U: Marraine; Hall
 
 ---
 
-key: 1912/SCEN/19120501CLE0@DMN
 date: 1912-05-01
 number: 0
 league: South Central
@@ -147,7 +144,6 @@ U: Daniels; Fulton
 
 ---
 
-key: 1912/TXOK/19120501BON0@DMN
 date: 1912-05-01
 number: 0
 league: Texas-Oklahoma
@@ -198,7 +194,6 @@ U: West
 
 ---
 
-key: 1912/TXOK/19120501WIC0@DMN
 date: 1912-05-01
 number: 0
 league: Texas-Oklahoma
@@ -251,7 +246,6 @@ U: Murphy
 
 ---
 
-key: 1912/TXOK/19120501SHE0@DMN
 date: 1912-05-01
 number: 0
 league: Texas-Oklahoma
@@ -305,7 +299,6 @@ U: Folsom
 
 ---
 
-key: 1912/TXOK/19120501ARD0@DMN
 date: 1912-05-01
 number: 0
 league: Texas-Oklahoma
@@ -354,7 +347,6 @@ U: Mulkey
 
 ---
 
-key: 1912/OKSL/19120501OKM0@DMN
 date: 1912-05-01
 number: 0
 league: Oklahoma State
@@ -376,7 +368,6 @@ line: Okmulgee: 2 0 1 2 6 1 2 0 1 - 15
 
 ---
 
-key: 1912/OKSL/19120501GUT0@DMN
 date: 1912-05-01
 number: 0
 league: Oklahoma State
@@ -400,7 +391,6 @@ line: Tulsa: 5 3 0 2 0 3 0 0 0 - 13
 
 ---
 
-key: 1912/OKSL/19120501HOL0@DMN
 date: 1912-05-01
 number: 0
 league: Oklahoma State
@@ -424,7 +414,6 @@ line: McAlester: 1 0 0 2 0 1 0 2 0 - 6
 
 ---
 
-key: 1912/OKSL/19120501ANA0@DMN
 date: 1912-05-01
 number: 0
 league: Oklahoma State

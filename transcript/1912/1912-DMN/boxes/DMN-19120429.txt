@@ -1,4 +1,3 @@
-key: 1912/TXOK/19120429SHE0@DMN
 date: 1912-04-29
 number: 0
 league: Texas-Oklahoma
@@ -53,7 +52,6 @@ U: Joggling; West
 	
 ---
 
-key: 1912/TXOK/19120429WIC0@DMN
 date: 1912-04-29
 number: 0
 league: Texas-Oklahoma
@@ -103,7 +101,6 @@ U: Murphy
 
 ---
 
-key: 1912/TXOK/19120429BON0@DMN
 date: 1912-04-29
 number: 0
 league: Texas-Oklahoma
@@ -155,7 +152,6 @@ U: Folsom
 
 ---
 
-key: 1912/TXOK/19120429ARD0@DMN
 date: 1912-04-29
 number: 0
 league: Texas-Oklahoma
@@ -203,7 +199,6 @@ U: Mulkey
 
 ---
 
-key: 1912/SCEN/19120429MAR0@DMN
 date: 1912-04-29
 number: 0
 league: South Central
@@ -250,7 +245,6 @@ U: Robinson
 
 ---
 
-key: 1912/SCEN/19120429CLE0@DMN
 date: 1912-04-29
 number: 0
 league: South Central
@@ -302,7 +296,6 @@ U: Wright
 
 ---
 
-key: 1912/SCEN/19120429PAR0@DMN
 date: 1912-04-29
 number: 0
 league: South Central
